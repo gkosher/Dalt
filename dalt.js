@@ -1,4 +1,4 @@
-// dalt.js - my shitty little discord frontend alternative
+// dalt.js - discord frontend alternative
 
 const API_ENDPOINT = 'https://discord.com/api/v9';
 
